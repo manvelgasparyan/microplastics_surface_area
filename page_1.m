@@ -41,7 +41,7 @@ for i = 1:3
     for j = 1:3
         d_j = d(j);
         [N, A] = Case_2(rho_i,d_j,M);
-        Number(i,j) = N;       
+        Number(i,j) = N;
         Area(i,j) = A;
     end
 end
