@@ -67,7 +67,7 @@ for i = 1:3
         [N,A] = Case_3 (d_j,h_j,rho_i,M);
         Number(i,j) = N;       
         Area(i,j) = A;
-    end
+     end
 end
 %--------------------------------------------------------------------------
 fprintf('Case 3')
