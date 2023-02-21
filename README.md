@@ -3,5 +3,7 @@ This project involves the development of a MATLAB implementation for converting 
 The current Matlab library is applicable to cases with these three possible shapes of micro- and nanoplastics :
 
 Case 1: Sphere
+
 Case 2: Pseudosphere
+
 Case 3: Cylinder
